@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|c:\\users\\salma\\desktop\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|c:\\users\\salma\\desktop\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|c:\\users\\salma\\desktop\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|c:\\users\\salma\\desktop\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\assigncourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:assigncourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\assigncourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:assigncourier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\courierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:courierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageshipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:manageshipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\trackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:trackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\trackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:trackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|c:\\users\\salma\\desktop\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\cancelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:cancelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\cancelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:cancelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\createshipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:createshipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\trackcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:trackcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\courierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:courierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\createshipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:createshipmentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:createform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\deleteusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:deleteusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\viewuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:viewuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageshipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:manageshipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\deleteusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:deleteusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\deleteusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:deleteusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\viewuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:viewuserscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageshipments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55077987-BF91-4580-A252-EF103FBCDFB3}|WindowsFormsApp1.csproj|solutionrelative:manageshipments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA+wB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:51:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:51:27.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "assignCourier.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\assignCourier.cs",
+              "RelativeDocumentMoniker": "assignCourier.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\assignCourier.cs",
+              "RelativeToolTip": "assignCourier.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAArwH8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T01:03:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "assignCourier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\assignCourier.cs",
+              "RelativeDocumentMoniker": "assignCourier.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\assignCourier.cs [Design]",
+              "RelativeToolTip": "assignCourier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:50:32.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:34:42.864Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T01:24:00.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:35:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CourierForm.cs",
+              "RelativeDocumentMoniker": "CourierForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CourierForm.cs [Design]",
+              "RelativeToolTip": "CourierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T19:18:48.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:32:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:35:57.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T23:55:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manageShipments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.cs",
+              "RelativeDocumentMoniker": "manageShipments.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.cs [Design]",
+              "RelativeToolTip": "manageShipments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:36:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.cs",
+              "RelativeDocumentMoniker": "TrackControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.cs",
+              "RelativeToolTip": "TrackControl.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:58:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.cs",
+              "RelativeDocumentMoniker": "TrackControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.cs [Design]",
+              "RelativeToolTip": "TrackControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:47:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CancelControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CancelControl.cs",
+              "RelativeDocumentMoniker": "CancelControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CancelControl.cs",
+              "RelativeToolTip": "CancelControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T02:01:32.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
+              "RelativeToolTip": "CustomerForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIA4wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:40:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CancelControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CancelControl.cs",
+              "RelativeDocumentMoniker": "CancelControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CancelControl.cs [Design]",
+              "RelativeToolTip": "CancelControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:47:33.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrackControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.Designer.cs",
+              "RelativeDocumentMoniker": "TrackControl.Designer.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\TrackControl.Designer.cs",
+              "RelativeToolTip": "TrackControl.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:35:13.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateShipmentControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CreateShipmentControl.cs",
+              "RelativeDocumentMoniker": "CreateShipmentControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CreateShipmentControl.cs",
+              "RelativeToolTip": "CreateShipmentControl.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwF0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:48:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourierForm.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CourierForm.cs",
+              "RelativeDocumentMoniker": "CourierForm.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CourierForm.cs",
+              "RelativeToolTip": "CourierForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T22:48:12.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "DeleteUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.Designer.cs",
+              "RelativeToolTip": "DeleteUserControl.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:50:51.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateShipmentControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CreateShipmentControl.cs",
+              "RelativeDocumentMoniker": "CreateShipmentControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\CreateShipmentControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\CreateShipmentControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:46:47.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AdminForm.Designer.cs",
+              "RelativeToolTip": "AdminForm.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:27:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\CreateForm.cs",
+              "RelativeDocumentMoniker": "CreateForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\CreateForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\CreateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:27:35.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "manageShipments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.Designer.cs",
+              "RelativeDocumentMoniker": "manageShipments.Designer.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.Designer.cs",
+              "RelativeToolTip": "manageShipments.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:46:46.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "manageShipments.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.cs",
+              "RelativeDocumentMoniker": "manageShipments.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageShipments.cs",
+              "RelativeToolTip": "manageShipments.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:34:55.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.cs",
+              "RelativeDocumentMoniker": "DeleteUserControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.cs",
+              "RelativeToolTip": "DeleteUserControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:19:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.cs",
+              "RelativeDocumentMoniker": "DeleteUserControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\DeleteUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:16:21.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "AddUserControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddUserControl.cs",
+              "RelativeToolTip": "AddUserControl.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv14AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:55:04.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "AddUserControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\AddUserControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\AddUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:52:02.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewUsersControl.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\ViewUsersControl.cs",
+              "RelativeDocumentMoniker": "ViewUsersControl.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\ViewUsersControl.cs",
+              "RelativeToolTip": "ViewUsersControl.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:05:41.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwDUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:36:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewUsersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\ViewUsersControl.cs",
+              "RelativeDocumentMoniker": "ViewUsersControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\ViewUsersControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\ViewUsersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:21:04.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "manageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageUsers.cs",
+              "RelativeDocumentMoniker": "manageUsers.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageUsers.cs",
+              "RelativeToolTip": "manageUsers.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:46:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "manageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\manageUsers.cs",
+              "RelativeDocumentMoniker": "manageUsers.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\manageUsers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Administrator\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\manageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:38:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:36:55.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
